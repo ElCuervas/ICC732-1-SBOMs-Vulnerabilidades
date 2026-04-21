@@ -1,0 +1,13 @@
+# Dependencias del programa
+# Instalar: pip install -r requirements.txt
+#
+# Para el notebook (analisis_parte3.ipynb), instalar ademas:
+#   pip install pandas matplotlib seaborn jupyter
+#
+# Grype debe estar instalado por separado:
+#   curl -sSfL https://raw.githubusercontent.com/anchore/grype/main/install.sh \
+#       | sh -s -- -b ~/.local/bin
+#   grype db update
+
+requests>=2.28.0    # repo_extractor.py (GitHub API)
+packaging>=23.0     # sbom_generator.py (parseo de versiones)

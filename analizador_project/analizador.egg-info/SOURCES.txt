@@ -1,0 +1,10 @@
+dev-requirements.txt
+pyproject.toml
+analizador/__init__.py
+analizador/__main__.py
+analizador.egg-info/PKG-INFO
+analizador.egg-info/SOURCES.txt
+analizador.egg-info/dependency_links.txt
+analizador.egg-info/requires.txt
+analizador.egg-info/top_level.txt
+tests/test_analizador.py

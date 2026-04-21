@@ -1,0 +1,5 @@
+# sbom-tool requirements
+# Instalar con: pip install -r requirements.txt
+
+requests>=2.28.0
+packaging>=23.0

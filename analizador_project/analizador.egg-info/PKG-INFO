@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: analizador
+Version: 1.0.0
+Author-email: Your Name <your@email.com>
+Requires-Python: >=3.9
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: setuptools; extra == "dev"
+Requires-Dist: wheel; extra == "dev"
